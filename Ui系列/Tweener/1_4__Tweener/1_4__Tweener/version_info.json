@@ -1,0 +1,9 @@
+{
+    "1_4_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-05-01",
+        "Notes": "Curve was not an optional parameter for snap  creation.\n",
+        "TD Build": "2020.22080",
+        "TD Version": "099"
+    }
+}
